@@ -1,1 +1,2 @@
 Fichero 2 de prueba
+Comentario fichero2
