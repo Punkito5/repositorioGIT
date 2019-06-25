@@ -1,0 +1,78 @@
+C:\\Users\\mpe\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\notepad.exe
+
+git config --global core.editor "C:\\Users\\mpe\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\notepad.exe"
+
+git mv file_from file_togit mv file_from file_to
+
+git mv fichero1.txt fichero11.txt
+
+comando git log
+
+Si quieres rehacer la confirmación, puedes reconfirmar con la opción --amend:
+git remote add pb https://github.com/paulboone/ticgit
+
+git remote add pb https://github.com/paulboone/lgom
+
+
+git remote add pk https://github.com/Punkito5/repositorioGIT.git
+
+git remote add origin https://github.com/Punkito5/repositorioGIT.git
+
+git fetch origin
+
+
+
+git tag -a v1.2 b3aac45c24fe
+
+git config --global alias.nlineas 'ls-files | xargs cat | wc -l'
+
+git config --global alias.log2 'log --oneline --decorate'
+
+
+gitpushall=git remote | xargs -L1 git push --all
+alias gitpushall=git remote $b xargs -L1 git push --all
+
+git checkout -b version2
+
+git checkout version2
+
+git branch -d version2
+
+git merge testing
+
+"C:\Program Files\KDiff3\kdiff3.exe"
+
+git config --global --add merge.tool kdiff3
+git config --global --add mergetool.kdiff3.path "C:/Program Files/KDiff3/kdiff3.exe"
+git config --global --add mergetool.kdiff3.trustExitCode false
+
+git config --global --add diff.guitool kdiff3
+git config --global --add difftool.kdiff3.path "C:/Program Files/KDiff3/kdiff3.exe"
+git config --global --add difftool.kdiff3.trustExitCode false
+
+git merge origin/version2
+
+git checkout -b testing2 origin/testing
+
+git branch -u origin/testing
+
+git push origin --delete version2
+
+git commit --amend --no-edit
+
+clear
+
+git checkout -b version2 bfc6a2d
+
+git rebase --onto master testing
+
+ssh-keygen -t ed25519 -C "mpcarenas@gmail.com"
+
+http://server/formacion/materiales.
+
+https://gitlab.com/Punkito5/restaurante/blob/master/fileRestaurant1.txt
+
+git clone https://gitlab.com/Punkito5/restaurante.git
+
+git remote add gitlab https://server/namespace/project.git
+git remote add gitlab https://gitlab.com/Punkito5/restaurante.git
